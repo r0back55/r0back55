@@ -4,16 +4,13 @@ My name is Robert, I'm 37 years old and I live in Poland.
 
 I am a self-taught Data Analyst, with passion to data visualisation. I do enjoy QlikView and Qlik Sense for data analyzis and visualisation. I don't like doing the same things over and over again so you can find my hiding in a corner trying to automate whatever I can to earn time for doing things I like the most.
 
-
-
 - :snake:	Currently on my Pythonist journey. Wish me luck!
-
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,vscode,git,github,bitbucket)](https://skillicons.dev)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=r0back55&show_icons=true&locale=en&count_private=true" alt="r0back55" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0back55&ver2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,vscode,git,github,bitbucket)](https://skillicons.dev)
 
 
 <!--
