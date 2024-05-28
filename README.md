@@ -7,7 +7,6 @@ I am a self-taught Data Analyst, with passion to data visualisation. I do enjoy 
 
 
 - :snake:	Currently on my Pythonist journey. Wish me luck!
-- 
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,vscode,git,github,bitbucket)](https://skillicons.dev)
 
