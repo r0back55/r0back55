@@ -10,10 +10,11 @@ I am a self-taught Data Analyst, with passion to data visualisation. I do enjoy 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0back55&ver2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,vscode,git,github,bitbucket)](https://skillicons.dev)
 
 
 <!--
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,vscode,git,github,bitbucket)](https://skillicons.dev)
+
 ![Robert's github stats](https://github-readme-stats.vercel.app/api?username=r0back55&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
 -->
 
