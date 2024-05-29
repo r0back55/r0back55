@@ -1,6 +1,6 @@
 ## 👋 Hi there 😊
 
-My name is Robert, I'm 37 years old and I live in Poland.
+My name is Robert.
 
 I am a self-taught Data Analyst, with passion to charts, tables, KPIs... I do enjoy QlikView and Qlik Sense for data analysis and visualisation. I don't like doing the same things over and over again so you can find my hiding in a corner trying to automate whatever I can to earn time for doing things I like the most.
 
